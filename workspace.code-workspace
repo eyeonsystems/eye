@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../terraform/p1"
+		},
+		{
+			"path": "../../terraform/aks1/learn-terraform-provision-aks-cluster"
+		},
+		{
+			"path": "../../../Downloads/eyeon"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../www"
+		}
+	],
+	"settings": {}
+}
